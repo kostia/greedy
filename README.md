@@ -1,8 +1,8 @@
 # Installation
 
 * Install Git
-* Install Java
-* Install Ruby
+* Install Java (>= 1.6)
+* Install Ruby (>= 1.8.7)
 
 ```bash
 $ gem install bundler # Install Bundler
